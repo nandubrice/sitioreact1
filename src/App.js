@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          ARNALDO BRICEÑO CATACORA
+          ARNALDO BRICEÑO
         </a>
       </header>
     </div>
